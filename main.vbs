@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run ".\\build\\razer_battery_tray.exe --timeout 20 --icons .//icons//", 0, True
